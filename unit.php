@@ -2,6 +2,7 @@
 
 printf("toto"); 
 
-printf("changement");
+printf("test");
+
 
 ?>
