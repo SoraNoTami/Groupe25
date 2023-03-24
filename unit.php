@@ -1,8 +1,5 @@
 <?php
 
-printf("toto"); 
-
-printf("test");
-
+printf("oui"); 
 
 ?>
