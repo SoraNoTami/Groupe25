@@ -2,4 +2,6 @@
 
 printf("toto"); 
 
+printf("changement");
+
 ?>
