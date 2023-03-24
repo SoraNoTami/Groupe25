@@ -1,5 +1,5 @@
-<?php>
-echo Hello world
+<?php
 
-  
- echo News
+printf("toto"); 
+
+?>
